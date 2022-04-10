@@ -106,7 +106,7 @@ cv2.destroyAllWindow
 ### i) BGR and RGB to HSV and GRAY
 ![](v5.png)
 ### ii) HSV to RGB and BGR
-![](v2.png)
+![](v3.png)
 ### iii) RGB and BGR to YCrCb
 ![](v3.png)
 
