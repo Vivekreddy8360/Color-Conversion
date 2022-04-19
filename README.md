@@ -18,10 +18,8 @@ Show the image stored in the given variable.
 Destroy all the windows and end the program.
 ## Program:
 ```python
-# Developed By:
-# Register Number:
-# Developed By:Koduru Sanath Kumar Reddy
-# Register Number:212221240024
+# Developed By:Vivek Reddy
+# Register Number:212221240030
 # i) Convert BGR and RGB to HSV and GRAY
 import cv2
 houseImage = cv2.imread('house.jpg')
